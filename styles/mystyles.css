@@ -1,0 +1,69 @@
+.fixedsubtitle {
+  font-weight: 300;
+  margin-bottom: 0.625rem;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+/*.subfont{
+    font-family: sans-serif;
+}*/
+
+.bg{
+    background-color: antiquewhite;  
+}
+
+/*.headerbg{
+    background-color: burlywood;*/
+}
+
+.homecolor{
+    color: antiquewhite;
+}
+
+.gradient{
+  font-size: 72px;
+  background: -webkit-linear-gradient(white, tan);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.centered{
+    text-align: center;
+}
+
+.italics{
+    font-style: italic;
+}
+
+.bold{
+    text-decoration: bolder;
+}
+
+.fancy{
+    font-family: cursive;
+}
+
+p{
+    font-family: sans-serif;
+    
+}
+
+ol{
+    font-weight:900;
+    font-family: sans-serif;
+    
+}
+
+ul{
+    font-weight: normal;
+    font-style: italic;
+}
+
+
+
